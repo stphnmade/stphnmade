@@ -18,4 +18,4 @@ Building Blockopoly, a digital card-game inspired by Monopoly Deal (React + Type
 
 ## 📈 Stephen's Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saparta&layout=compact&theme=merko)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saparta&layout=compact&theme=merko)
