@@ -14,7 +14,7 @@ Building Blockopoly, a digital card-game inspired by Monopoly Deal (React + Type
 
 📫 How to reach me: LinkedIn: linkedin.com/in/stephen-syl-akinwale
 
-⚡ Fun fact: I love making beats, So I'm excited to see any music related projects
+⚡ Fun fact: I love making beats, So I'm excited to see any music related projects. Please Share!
 
 ## 📈 Stephen's Stats
 
