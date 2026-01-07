@@ -15,6 +15,6 @@ Building Blockopoly, a digital card-game inspired by Monopoly Deal (React + Type
 
 ⚡ Fun fact: I love making beats, So I'm excited to see any music related projects. Please Share!
 
-## 📈 Stephen's Stats
+## 📈 My Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saparta&layout=compact&theme=merko)
