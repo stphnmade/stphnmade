@@ -1,10 +1,10 @@
 # Hi! 👋
 
-🔭 I’m currently working on ...
-Building Blockopoly, a digital card-game inspired by Monopoly Deal (React + TypeScript frontend, Kotlin/Ktor backend, Redis SSE). I’m also developing Storybot that pulls stories from reddit for a faceless instagram account.
-🌱 I’m currently learning to deepen my skills in full-stack architecture, scalable backend systems, data visualization, and cloud deployments.
+🔭 I’m currently optimizing Blockopoly, a digital card game inspired by Monopoly Deal (React + TypeScript frontend, Kotlin/Ktor backend, Redis SSE). I’m also developing Storybot that pulls stories from reddit for a faceless instagram account.
 
-👯 I’m looking to collaborate on connecting to creative services with APIs, tech-meets-storytelling projects.
+🌱 I’m currently deepening my skills in full-stack architecture, scalable backend systems, data visualization, and cloud deployments.
+
+I want to collaborate on connecting to creative services with APIs, tech-meets-storytelling projects.
 
 🤔 I’m looking for help with best practices for production deployment, cloud hosting, Docker development tricks, and migrating/consolidating past projects accurately from other GitHub profiles [Data project account](https://github.com/stephensyl) , [Fullstack project account](https://github.com/Saparta).
 
